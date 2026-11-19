@@ -1,3 +1,7 @@
-- [ ] Build Northline Denim's responsive jeans storefront homepage.
-- [ ] Add sample featured products, brand story, reasons to shop, and social links.
-- [ ] Keep WhatsApp contact ready for a number to be added later.
+- [x] Build Northline Denim's responsive jeans storefront homepage.
+- [x] Add sample featured products, brand story, reasons to shop, and social links.
+- [x] Leave WhatsApp chat disabled until a contact number is provided.
+- [x] Optimize generated product photography for storefront delivery.
+- [x] Check the desktop and mobile storefront in the live preview.
+- [x] Review the passing preview diagnostics and homepage route test.
+- [x] Commit the finished storefront.
