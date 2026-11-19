@@ -1,0 +1,3 @@
+- [ ] Build Northline Denim's responsive jeans storefront homepage.
+- [ ] Add sample featured products, brand story, reasons to shop, and social links.
+- [ ] Keep WhatsApp contact ready for a number to be added later.
