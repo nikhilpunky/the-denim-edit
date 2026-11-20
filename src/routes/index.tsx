@@ -56,32 +56,32 @@ function Index() {
         A GOOD PAIR GOES A LONG WAY.
       </div>
 
-      <header className="mx-auto flex max-w-7xl items-center justify-between gap-3 px-4 py-5 sm:px-8 lg:px-12">
+      <header className="mx-auto flex max-w-7xl items-center justify-between gap-3 bg-brand-header px-4 py-5 text-primary-foreground sm:px-8 lg:px-12">
         <a
           href="#top"
           aria-label="Northline Denim home"
           className="shrink-0 text-base font-bold uppercase leading-none sm:text-lg"
         >
-          NORTHLINE<span className="text-brand-denim">.</span>
-          <span className="mt-1 block text-[9px] font-medium uppercase text-muted-foreground sm:text-[10px]">
+          NORTHLINE<span className="text-brand-highlight">.</span>
+          <span className="mt-1 block text-[9px] font-medium uppercase text-primary-foreground/70 sm:text-[10px]">
             DENIM CO.
           </span>
         </a>
         <nav aria-label="Main navigation" className="flex items-center gap-3 sm:gap-6">
-          <a className="text-xs font-medium hover:text-brand-denim sm:text-sm" href="#shop">
+          <a className="text-xs font-medium hover:text-brand-highlight sm:text-sm" href="#shop">
             Shop
           </a>
-          <a className="text-xs font-medium hover:text-brand-denim sm:text-sm" href="#story">
+          <a className="text-xs font-medium hover:text-brand-highlight sm:text-sm" href="#story">
             Our story
           </a>
           <a
-            className="text-xs font-medium hover:text-brand-denim sm:text-sm"
+            className="text-xs font-medium hover:text-brand-highlight sm:text-sm"
             href="#contact"
           >
             Contact
           </a>
           <a
-            className="flex size-9 items-center justify-center rounded-full border border-border transition-colors hover:bg-brand-soft"
+            className="flex size-9 items-center justify-center rounded-full border border-primary-foreground/25 transition-colors hover:bg-primary-foreground/10"
             href="#shop"
             aria-label="Browse the collection"
           >
