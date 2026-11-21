@@ -103,7 +103,7 @@ function Index() {
             id="hero-heading"
             className="max-w-xl font-display text-5xl leading-[1.07] sm:text-6xl lg:text-7xl"
           >
-            Find your <span className="text-brand-denim">forever</span> pair.
+            Nikhil Testing
           </h1>
           <p className="mt-5 max-w-sm text-base leading-relaxed text-muted-foreground sm:text-lg">
             Thoughtful fits. Easy-to-wear denim. Made for all the days in between.
